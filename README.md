@@ -1,5 +1,7 @@
 # 💳 FraudShield AI – Financial Fraud Detection & Analytics
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-red)](https://financialfrauddetectionsystem-rz8j4x4ziwbgqpsk6kavrc.streamlit.app/)
+
 ## 📌 Project Overview
 
 FraudShield AI is an end-to-end Machine Learning project designed to identify potentially fraudulent financial transactions using behavioral analytics and predictive modeling.
