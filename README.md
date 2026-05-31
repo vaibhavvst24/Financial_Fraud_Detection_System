@@ -1,4 +1,4 @@
-# 💳 FraudShield AI – Financial Fraud Detection & Analytics Platform
+# 💳 FraudShield AI – Financial Fraud Detection & Analytics
 
 ## 📌 Project Overview
 
