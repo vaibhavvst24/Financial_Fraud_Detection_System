@@ -14,18 +14,28 @@ The objective is to help financial institutions, fintech companies, and payment 
 
 ### 📊 Interactive Analytics Dashboard
 Fraud vs Genuine Transaction Analysis
+
 Transaction Amount Distribution
+
 Payment Method Analysis
+
 Merchant Category Insights
+
 Device Type Fraud Trends
+
 International vs Domestic Transaction Analysis
+
 Fraud Risk Monitoring
+
 Correlation Heatmap
 
 ### 🤖 Machine Learning Fraud Detection
 Real-time fraud prediction
+
 Fraud probability scoring
+
 Risk classification (Low / Medium / High)
+
 Behavioral anomaly detection
 
 ### 🧠 Advanced Feature Engineering
@@ -134,31 +144,43 @@ Risk Level
 The system identifies suspicious activities such as:
 
 High-value transactions
+
 Unusual spending behavior
+
 International transactions
+
 High transaction frequency
+
 Significant spend deviation
+
 Risky payment patterns
 
 ---
 
 ## 📷 Dashboard Preview
 EDA Dashboard
+
 Fraud Analytics
+
 Interactive Charts
+
 Business Insights
+
 Risk Monitoring
 
 ## Prediction Dashboard
 Transaction Input Form
+
 Real-Time Fraud Detection
+
 Fraud Probability Score
+
 Risk Level Classification
 
 ---
 
 ## Clone Repository
-git clone https://github.com/yourusername/FraudShield-AI.git
+git clone https://github.com/vaibhavvst24/Financial_Fraud_Detection_System
 
 cd FraudShield-AI
 
@@ -178,12 +200,19 @@ streamlit run main.py
 
 ## 📌 Future Enhancements
 XGBoost & LightGBM Integration
+
 Real-Time Transaction Streaming
+
 SHAP Explainability Dashboard
+
 Cloud Deployment
+
 REST API Integration
+
 Fraud Alert System
+
 Geo-Location Fraud Tracking
+
 User Authentication
 
 ---
@@ -193,9 +222,13 @@ User Authentication
 This solution helps organizations:
 
 Detect fraudulent transactions faster
+
 Reduce financial losses
+
 Improve customer trust
+
 Enhance risk management
+
 Support fraud investigation teams
 
 ---
